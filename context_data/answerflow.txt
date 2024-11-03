@@ -1,0 +1,80 @@
+New Generative AI Feature: Simplifying Document Cognition for Customer Support with AnswerFlow
+
+In today’s fast-paced world, customer expectations demand immediate and precise responses from support agents, significantly impacting the overall customer experience. The time taken by agents to resolve customer queries has a proven effect on customer satisfaction, with studies indicating that 68% of customers are willing to pay more for better service and 89% are more likely to make repeat purchases after a positive support experience, according to Hubspot and Salesforce, respectively.
+
+However, responding accurately to a wide range of customer queries can be challenging even for experienced agents, who often need to refer to various documents and training materials, impacting their response and resolution times.
+
+To overcome this challenge, we have introduced a new feature called AnswerFlow. It is an innovative solution that leverages automated document cognition to help support agents access relevant answers from business documents. AnswerFlow assimilates extensive facts and information to answer any query instantly, recognising a customer’s intent and ensuring speedy resolution times.
+
+Our latest Generative AI-powered tool, AnswerFlow, has been specifically developed to support customer service agents in their daily operations. By providing real-time access to relevant information and resolution answers from the company’s repository of documents via automated document cognition–this feature enables agents to respond to customer inquiries quickly and accurately.
+
+Verloop.io’s platform allows businesses to upload documents, such as training materials, company policies, and pricing structures, with minimal effort. Our platform employs LLM models to process these documents automatically, enabling agents to access answers to any customer query directly from their live chat interface. With AnswerFlow, businesses can rest assured that their support team has the most up-to-date and accurate information at their fingertips, empowering them to deliver exceptional customer service.
+
+What is AnswerFlow? 
+
+AnswerFlow is our new AI-powered feature designed to assist customer support agents in their daily tasks.
+
+This tool empowers
+
+Agents to tap into a vast repository of company documents in real-time to provide accurate and efficient responses to customer queries.
+And businesses to upload all their training documents, company policies, pricing structures, and more on the Verloop.io platform and let the rest be taken care of. 
+
+Verloop.io utilises powerful LLM models to automatically process the information and provide agents with instant answers to any customer query on their live chat interface, which means saying goodbye to tedious manual searches and hello to seamless customer service.
+
+How Does AnswerFlow Work? 
+
+The Terra AI dashboard (formerly known as FAQ) allows admins to upload training documents to the AnswerFlow section. Through the AnswerFlow tool integrated into the live chat UI, agents can receive relevant responses to customer questions, eliminating the need for manual document sifting.
+
+By utilising Natural Language Processing (NLP), Machine Learning algorithms, and Generative AI, the tool can generate the most precise and appropriate answers from training materials and documents, ensuring accurate and relevant responses to customer queries.
+
+Under our AnswerFlow feature, we also have the following  Generative AI language features:
+
+ AI-Expand,
+ AI-Rephrase, 
+AI-Tone Adjustment
+AI-Summary
+To help agents eliminate the time spent searching, copying, pasting, and formulating answers.
+
+Admins can simply upload all relevant documents. Agents can seamlessly utilise the data available on the AnswerFlow feature, accessible on the Livechat dashboard, to obtain suggestive responses, improving the overall customer service experience.
+
+What is Terra AI Dashboard?
+Administrators can access the enhanced Terra AI dashboard, which harnesses the incredible power of Generative AI. In our Verloop.io platform, the left side menu panel used to feature the FAQ section, but now it has been gracefully replaced by the cutting-edge Terra AI. 
+
+Within Terra AI, you will find a clear distinction between the FAQ and AnswerFlow functionalities, elegantly presented as two separate modules. This intuitive design ensures a delightful user experience, allowing you to navigate effortlessly and leverage the full potential of our AI-powered tools.
+
+Only Admins have access to the Generative AI-powered Terra AI dashboard. Earlier, where FAQ button was placed in the left side panel of our Verloop.io dashboard, which has now been replaced by Terra AI. And under Terra AI, you can access the FAQ and AnswerFlow. In AnswerFlow, you can upload all the business and policy-related documents as stated earlier.
+
+
+Users with administrative privileges can now upload documents in their desired language, which are then processed and trained by our Generative AI model. Preparing the content in any language (Hinglish is an exception) is possible, responding to customer queries in the same vocabulary.
+
+Agents can simply click on the “AnswerFlow” icon on their live chat against the query they need an answer to get a streamlined response from the AnswerFlow for any given question.
+
+Benefits of AnswerFlow
+
+Here are some of the key benefits of using AnswerFlow:
+
+1. Improved Response and Resolution Time
+This feature eliminates the need for agents to search for multiple documents by hand or ask for help from their colleagues by quickly obtaining precise answers, thus decreasing the initial response time and overall query resolution time. AnswerFlow streamlines the process of responding to customer queries and resolving them by providing agents with real-time access to relevant information and training materials. With our Generative AI language features, agents can eliminate the task of writing messages. 
+
+A study by Khoros suggests that 83% of customers are more loyal to brands that respond quickly to resolve customer queries. This saves time and ensures that customers receive prompt and accurate responses, improving response time and overall customer satisfaction.
+
+2. Accurate Responses 
+AnswerFlow enables customer support agents to access relevant information and training materials in real-time, eliminating the dependency on human memory or document searching. With advanced support LLM models and document cognition, Aidentifies the most pertinent resources for accurate responses, instilling customer confidence and loyalty. This level of support ensures that agents have access to the latest information and are equipped to handle a wide range of customer queries, even those that may be complex or unusual. 
+
+3. Consistency
+AnswerFlow offers a crucial advantage by providing a centralised repository of knowledge, which ensures consistent and up-to-date information for all customer support agents. This feature allows businesses to maintain a unified brand voice and tone, which is essential for maintaining a strong brand identity and customer loyalty. By updating the knowledge base, all agents have access to the same information, resulting in consistent responses and a positive customer experience.
+
+4. Multilingual Access
+With AnswerFlow’s multilingual support, users can now communicate effortlessly in their preferred language. The language support feature ensures that users receive prompt and efficient responses to their queries, irrespective of the document’s language or content. All users need to do is ask their questions in their preferred language. 
+
+As an example, if a user poses a query in Arabic, the AnswerFlow, assisted by generative AI, will first translate the question into English (assuming the uploaded document is in English), then create a response for the agent in the language in which the query was asked.
+
+Additionally, AnswerFlow’s support for multiple languages allows users to switch languages seamlessly in the same conversation.
+
+AnswerFlow: Elevating Agent Happiness, Resolution Time, CSAT, and NPS Scores
+
+Brace yourself for a thrilling ride as this cutting-edge tool unleashes a wave of real-time impacts that will transform the way you serve your customers.
+
+Bid farewell to mundane responses and say hello to exceptional customer satisfaction. With AnswerFlow’s ability to provide superior and swifter answers, your CSAT will skyrocket, leaving your customers feeling not just satisfied but valued. 
+Brace yourself for an even more streamlined communication process, as your agent and admin NPS witness substantial improvements.
+That’s not all! AnswerFlow serves as a time-saver, lessening training time and freeing up your team to concentrate on more critical tasks. Furthermore, reducing agent dependency leads to a significant rise in your Happiness Index, as agents are no longer burdened with handling complex and hurricane of customer queries. This creates an atmosphere that is not only efficient but also pleasant.

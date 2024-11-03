@@ -1,0 +1,48 @@
+Verloop.io’s Co-Pilot for Support is Your Magic Wand for Effortless Customer Experiences
+
+The landscape of modern customer interactions is continually evolving, and as a result, the role of customer service agents has become increasingly complex. Agents often find themselves navigating intricate and challenging scenarios, and this pressure may even result in potential burnout, impacting overall agent productivity.
+
+As a matter of fact, a study reveals that  86% of agents feel that they don’t have the resources or the authority to deal with customers effectively.
+
+To address these challenges and enhance customer support capabilities, real-time assistance for agents is more critical than ever. 
+
+Therefore, Verloop.io is elated to announce Co-Pilot for Support, your ultimate secret weapon for delivering unparalleled customer experiences. 
+
+Almost all customers today expect quick responses, personalised assistance, and swift resolutions to their queries. With Co-Pilot for Support, we’re here to help you meet and exceed these expectations. 
+
+Let’s explore how Co-Pilot for Support can revolutionise your customer support:
+1. Ready-to-Send Responses
+Co-Pilot for Support gives quick, ready-to-send responses to customers, enhancing the quality and consistency of their experience.
+
+2. Real-time SLAs
+Co-Pilot for Support helps generate real-time Service Level Agreements (SLAs), helping agents navigate conversations systematically and reducing the learning curve for new agents.
+
+3. Quick Action Triggers
+Furthermore, this feature equips your agents with quick action triggers for tasks like returns, refunds, cancellations, and scheduling, reducing turnaround times.
+
+The need for real-time assistance goes beyond just managing stress. It encompasses a broader spectrum of objectives, including boosting agent productivity and effectiveness. It also involves maintaining their unwavering engagement and focus on delivering exceptional customer experiences.
+
+Therefore, Co-Pilot for Support steps in as a pivotal solution, offering immediate support that benefits both customers and agents alike.
+
+But before that, let’s understand how Co-Pilot for Support works. 
+
+How Does Co-Pilot for Support Work?
+
+1. It’s as easy to activate as any other recipe in our recipe builder.
+2. From a technical standpoint, you’ll mark a recipe to be used as a Co-Pilot for Support when a customer recipe is running.
+3. The system ensures that Co-Pilot for Support is available only to the agent assigned to the customer chat.
+4. During transfers between agents, Co-Pilot for Support maintains its state, ensuring continuity in customer support.
+5. Once activated , it listens to every message from the customer and provides suggestions or actions in real time with a single click. 
+
+Benefits of Co-Pilot for Support for Your Business
+
+Co-Pilot for Support is not just a tool; it’s a promise to enhance your customer support capabilities. With Co-Pilot, you can:
+
+1. Improve Agent CSAT (Customer Satisfaction) scores.
+2. Reduce Average Handling Time (AHT).
+3. Accelerate agent onboarding. 
+4. Enhance upselling opportunities
+5. Elevate the overall customer experience.
+6. Ensure compliance and maintain high call quality.
+
+
