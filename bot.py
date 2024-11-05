@@ -110,6 +110,9 @@ def main(client,model_name):
             print(second_response)
 
     except KeyboardInterrupt:
+        if not os.path.exists("history"):
+            os.makedirs("history")
+            
         with open(f"history/{username}.pkl", "wb") as file:
             pkl.dump(history, file)
 
